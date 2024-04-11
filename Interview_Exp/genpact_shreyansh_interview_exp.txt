@@ -1,0 +1,113 @@
+company: Genpact
+Role: Data Analyst
+Package: 10.95 LPA
+
+Name: shreyansh gupta
+roll: 207947
+
+ROUNDS: 3
+1: online test
+2: interview
+3: hr
+
+
+Round 1(CODING ROUND):
+DURATION : 1.5 HR
+MCQ(10-15)+CODING(1)+SQL(2)         '*Number in bracket is count of questions in that section'
+
+MCQ:
+TOPICS:data structure,algorithms,javascript basic, oop in java
+
+CODING: 
+It is very easy level question based on array
+
+SQL: 
+TOPICS: joins,aggregative functions
+
+"i completed it in 9 min(approx.)"
+
+ROUNG 2(INTERVIEW):
+DURATION: 26 MIN
+There were 5 members in the call(interview) and each member is of different section.
+1.They introduced themself first then they ask me to introduce myself.
+  (In my introduction specificaly mention about WSDC so after that he asked me brif what WSDC is and what is does in NITW)
+2. Then he pointed out that my profile is developer but the role i applied is analyst.
+3. He asked why you want to work as an data analyst
+4. He asked what do you know about our company and in which domanis we work
+5. Do you know any recent work done by our company.
+6. Why you want to work at genpact.
+
+(NOTE : you may be thinking, all the above questions are hr question why they asked in the technical round. 
+        I also didn't prepared for such question but somehow i managed to handle. The above section was something i never thought and was the hardest part
+(kyuki mujhe pasina aane lgatha ki ye kya puch rahe he, ye to dekha hi nhi mene pure saale DSA aur CORE hi pda tha)
+
+ TIP: question kaisa bhi ho try to be confident and positive)
+
+7.After all this hurdles, finally they ask which is your favourite subject. I told  DBMS.
+8.define database
+9.what is DBMS
+10.what are keys in dbms
+11. what is the difference b/w NOSQL database and relational database
+12. what is SQL
+13. what is the importance of primary key
+
+It was really going fantastic as the dbms section started. I was answering every question they were asking (now here is the climax)
+and then one other guy from the call asked
+
+12.Do you know any modern framework
+   (i told yes i know django framework based on python)
+13.He then asked do you know REACT 
+   (i told directly NO)
+14.He then asked do you know ANGULAR
+   (again i directly told NO)
+15.He then asked do you know JAVASCRIPT
+   (i told very basic)
+16. He then asked do you know PYTHON
+   (i told, i have elementry knowledge and i can code in it but with the help of syntax references. 
+     My primary language is CPP)
+17. tell me the difference between PYTHON and CPP
+18. tell the difference between for loop and while loop
+
+
+18. what are candidate keys how they are different from primary keys
+
+then last two questions 
+19. let suppose you have a db table but in that you do not have primary key, then how will you select the primary key for faster quering
+20. one client comes to you with the requirement to make a web application for LEAVE MANAGEMENT such that whenever an employee request for a leave that request should also be send 
+    to the manager for approval then how will you approach it and tell me the basic prototype that you will build.
+
+Then they told thats all from our side if you have any question then you can ask
+then i asked one question related to companies culture and  what opportunities a fresher candidate gets
+
+With this my round ended
+
+
+ROUND 3(HR):
+DURATION : 20 MIN
+
+1.in this round firstly she introduced her and then asked me to introduce.
+2. tell me about your family.
+3. you are from which place
+4. then she asked what are the thing that makes your hometown beautiful
+5. what is your strength and weakness
+6. are you willing to relocate
+7. are you comfortable with the location
+
+Then she again started talking about herself and the office in banglore location and ther was a normal conversion happen
+then she asked do you have any other question. ( i asked about the locations available)
+
+with this the round ended
+
+
+
+TIPS : 1.don't be hyper or nervious when you are asked such questions which are completely blank for you.
+       2. never lie to the interviewer
+       3. Try to make a really very good conversation through out the interview
+      
+
+                     JUST TRY YOUR BEST AND FORGET THE REST 
+                    HONA YA NA HONA TUMHARE HAATH ME NAHI HE
+                          --- ONCE YOUR DAY WILL COME -- 
+
+ 
+ 

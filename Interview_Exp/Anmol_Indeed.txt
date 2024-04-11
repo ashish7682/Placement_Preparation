@@ -1,0 +1,49 @@
+ First round (11 AM - 12 PM) 
+
+Q1 : given a list of ads. we have to return a random ad from it. A ad once used cannot be used again. (probability of each ad is same)
+
+I did this under 10 min. with O(1) for both time and space.
+
+Q2 : Follow up for this problem. Now the probability of each ad is changed and it is given in form of weight.
+
+I came up with a solution that will take some more extra space. but he told me to optimize it.
+He directed me towards a possible approach, and I picked his hint.
+
+I solved it using prefix sum + binary search on weight array.
+
+Time complexity had a "K" factor in it, with this solution, he told me to get rid of it.
+
+I came up with segment tree based solution. As only 5 min were left he told me to write an interface for segment tree.
+
+I did it.
+
+
+Second round (12 : 15 - 1 : 15)
+
+
+Q. given a vector of vector of integer. we have return the top k freq element in that data.
+
+every list is sorted and there is no duplicate among the list. but duplicate might happen across diff list.
+
+ex : [1,2,3,5]
+     [1,3,5,10]
+     [7,8,15,16,19,20]
+
+
+I quickly told brute-force solution, he told me to optimize it in both space and time.
+I came up with a solution using two min heaps (one of integer and one of pair of integer)
+Basically i simulating the merging process of the entire lists and counting freq at the run time.
+
+
+
+He told me to optimize the space taken for first heap, he gave me a hint and i told him my approach
+
+In last 6 min he told me write code for it.
+
+
+I coded it fully. but didn’t have any time left for testing it.
+
+
+My second round was over now.
+
+Got a message from SPOC that I am not selected. :) 
